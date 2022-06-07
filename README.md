@@ -2,6 +2,8 @@
 
 I'm Pedro Dias, a engineering and development student from Brazil.
 
+I'm in the 5º semester of Control and Automation Engineering at UNICAMP - Campinas.
+
 I've already studied some things about HTML, CSS, JavaScript and React during my course at Driven, but that's just the beginning!
 
 <div align="center">
