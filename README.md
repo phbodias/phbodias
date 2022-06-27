@@ -1,10 +1,10 @@
-### Hi there 🤙
+## Hi there 🤙
 
-I'm Pedro Dias, a engineering and development student from Brazil.
+I'm Pedro Dias, a engineering and web development student from Brazil.
 
 I'm in the 5º semester of Control and Automation Engineering at UNICAMP - Campinas.
 
-I've already studied some things about HTML, CSS, JavaScript and React during my course at Driven, but that's just the beginning!
+I've already studied some things about HTML, CSS, JavaScript and React during my course at Driven, now I'm studying Node.js.
 
 <div align="center">
   <a href="https://github.com/phbodias">
@@ -22,6 +22,8 @@ I've already studied some things about HTML, CSS, JavaScript and React during my
   <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
 </div>
   
-#### A crazy animation with my commits:  
-![Snake animation](https://github.com/phbodias/phbodias/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
+   <h3>A crazy animation with my commits: </h3>
+  <img src="https://github.com/phbodias/phbodias/blob/output/github-contribution-grid-snake.svg"
+</div>
   
