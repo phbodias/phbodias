@@ -28,7 +28,7 @@ I've already studied some things about HTML, CSS, JavaScript and React during my
 </div>
   
 <div align="center">
-   <h3>A crazy animation with my commits: </h3>
-  <img src="https://github.com/phbodias/phbodias/blob/output/github-contribution-grid-snake.svg"
+   <h4>A crazy animation with my commits: </h4>
+   <img src="https://github.com/phbodias/phbodias/blob/output/github-contribution-grid-snake.svg">
 </div>
   
