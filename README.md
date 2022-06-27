@@ -22,7 +22,8 @@ I've already studied some things about HTML, CSS, JavaScript and React during my
     <img align="center" alt="Express" height="30" width="70" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
     <img align="center" alt="MongoDB" height="30" width="100" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
     <img align="center" alt="Git" height="30" width="70" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
-   <img align="center" alt="Git" height="30" width="70" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
+    <img align="center" alt="Python" height="30" width="70" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
+     <img align="center" alt="C" height="30" width="70" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
   </div>
 </div>
   
