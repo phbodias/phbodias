@@ -27,9 +27,7 @@ I've already studied some things about HTML, CSS, JavaScript and React during my
      <img align="center" alt="C" height="30" width="70" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
   </div>
 </div>
-  
 <div align="center">
-   <h4>A crazy animation with my commits: </h4>
    <img src="https://github.com/phbodias/phbodias/blob/output/github-contribution-grid-snake.svg">
 </div>
   
