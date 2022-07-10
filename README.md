@@ -6,6 +6,8 @@ I'm in the 5º semester of Control and Automation Engineering at UNICAMP - Campi
 
 I've already studied some things about HTML, CSS, JavaScript and React during my course at Driven, now I'm studying Node.js.
 
+[![wakatime](https://wakatime.com/badge/user/73c2a053-2608-408f-babd-59f9c0107af1.svg)](https://wakatime.com/@73c2a053-2608-408f-babd-59f9c0107af1)
+
 <div align="center">
   <a href="https://github.com/phbodias">
   <img height="160em" 
