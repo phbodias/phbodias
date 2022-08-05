@@ -11,7 +11,7 @@ I've already studied some things about HTML, CSS, JavaScript and React during my
 <div align="center">
   <a href="https://github.com/phbodias">
   <img height="160em" 
-  src="https://github-readme-stats.vercel.app/api?username=phbodias&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  src="https://github-readme-stats.vercel.app/api?username=phbodias&show_icons=true&theme=dracula&include_all_commits=true&count_private=false"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phbodias&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
