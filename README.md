@@ -8,13 +8,6 @@ I've already studied some things about HTML, CSS, JavaScript and React during my
 
 [![wakatime](https://wakatime.com/badge/user/73c2a053-2608-408f-babd-59f9c0107af1.svg)](https://wakatime.com/@73c2a053-2608-408f-babd-59f9c0107af1)
 
-<div align="center">
-  <a href="https://github.com/phbodias">
-  <img height="160em" 
-  src="https://github-readme-stats.vercel.app/api?username=phbodias&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phbodias&layout=compact&langs_count=7&theme=dark"/>
-</div>
-
 <div align="center" style="display: inline_block">
   <h4>Somethings already studied:</h4>
     <img align="center" alt="HTML" height="30" width="70" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
