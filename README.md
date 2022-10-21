@@ -12,7 +12,7 @@ I'm in the 5º semester of Control and Automation Engineering at UNICAMP - Campi
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phbodias&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
-<p align=center>Languages and tools:</p>
+## Languages and tools
 
 <p> Back end:
   <p>
@@ -41,6 +41,17 @@ I'm in the 5º semester of Control and Automation Engineering at UNICAMP - Campi
     <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white" style="margin-bottom: 4px;" height="30px">
   </p>
 </p>
+
+## 👥 Connect With Me
+<p>
+  <a href="https://www.linkedin.com/in/phbodias/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-bottom: 4px;"          height="30px" target="_blank">
+  </a>
+  <a href = "mailto:pedrohenriquebritooliveira@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
+</p>
+<hr/>
 
 <div align="center">
   <img src="https://github.com/phbodias/phbodias/blob/output/github-contribution-grid-snake.svg">
