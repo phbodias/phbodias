@@ -4,6 +4,8 @@ I'm Pedro Dias, a engineering and web development student from Brazil.
 
 I'm in the 5º semester of Control and Automation Engineering at UNICAMP - Campinas.
 
+I have knowledge in web development, front and back-end, and recently I started to learn DevOps.
+
 [![wakatime](https://wakatime.com/badge/user/73c2a053-2608-408f-babd-59f9c0107af1.svg)](https://wakatime.com/@73c2a053-2608-408f-babd-59f9c0107af1)
 
 <div align="center">
