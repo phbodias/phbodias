@@ -1,6 +1,6 @@
 ## Hi there 🤙
 
-I'm Pedro Dias, a engineering and web development student from Brazil.
+I'm Pedro Dias, a web developer and engineering student from Brazil.
 
 I'm in the 5º semester of Control and Automation Engineering at UNICAMP - Campinas.
 
